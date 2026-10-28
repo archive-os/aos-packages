@@ -150,9 +150,9 @@
       "desktop_id": "aos-pomodoro.desktop",
       "launch": "aos-pomodoro",
       "asset": "aos-pomodoro_1.0.2_all.deb",
-      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-pomodoro_1.0.1_all.deb",
-      "size": 191960,
-      "sha256": "139ffaff6f701d3519c2321c88c6b4b394c013abb08f09fd9e05c60ab3fff38d",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-pomodoro_1.0.2_all.deb",
+      "size": 1119828,
+      "sha256": "475e1103ac0954669d56a0d91fc0b48b6744ea366fe685faae41857d1aa922bf",
       "optional": true,
       "removable": true
     }
