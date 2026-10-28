@@ -149,7 +149,7 @@
       "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.4), python3-pyqt6.qtsvg, pulseaudio-utils",
       "desktop_id": "aos-pomodoro.desktop",
       "launch": "aos-pomodoro",
-      "asset": "aos-pomodoro_1.0.1_all.deb",
+      "asset": "aos-pomodoro_1.0.2_all.deb",
       "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-pomodoro_1.0.1_all.deb",
       "size": 191960,
       "sha256": "139ffaff6f701d3519c2321c88c6b4b394c013abb08f09fd9e05c60ab3fff38d",
