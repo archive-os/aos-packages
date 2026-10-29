@@ -24,7 +24,7 @@
     {
       "package": "aos-terminal",
       "name": "ArchiveOS Terminal",
-      "version": "2.1.7+paths1",
+      "version": "2.1.9",
       "architecture": "amd64",
       "summary": {
         "tr": "Sekmeli KDE terminali ve klasör entegrasyonu.",
@@ -35,10 +35,10 @@
       "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.5), konsole-kpart, libkf6parts6, libkf6coreaddons6, libkf6i18n6, libstdc++6, libc6 (>= 2.34), systemd",
       "desktop_id": "aos-terminal.desktop",
       "launch": "aos-terminal",
-      "asset": "aos-terminal_2.1.7+paths1_amd64.deb",
+      "asset": "aos-terminal_2.1.9_amd64.deb",
       "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-terminal_2.1.7%2Bpaths1_amd64.deb",
-      "size": 118632,
-      "sha256": "4addc7651d9f339b1d14aa6ea225f02dfa76a818d1a2e16d4021cb40eca70e1e"
+      "size": 120074,
+      "sha256": "e508269279d48a69e6217f117b3d607b196b981ca8ffcab182e03e3e3d4bfa1a"
     },
     {
       "package": "aos-touch-keyboard",
