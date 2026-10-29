@@ -36,7 +36,7 @@
       "desktop_id": "aos-terminal.desktop",
       "launch": "aos-terminal",
       "asset": "aos-terminal_2.1.9_amd64.deb",
-      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-terminal_2.1.7%2Bpaths1_amd64.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-terminal_2.1.9_amd64.deb",
       "size": 120074,
       "sha256": "e508269279d48a69e6217f117b3d607b196b981ca8ffcab182e03e3e3d4bfa1a"
     },
