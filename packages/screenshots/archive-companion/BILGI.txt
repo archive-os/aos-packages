@@ -1,0 +1,2 @@
+Archive gerçek Qt arayüzünün offscreen önizlemeleri. Gerçek sistem masaüstü veya fiziksel şarj/USB olayı değildir. Medya, hava durumu, ses ve bildirim verileri örnektir.
+1 Ana ekran;2 Müzik;3 Bildirimler;4 Takvim;5 Hava durumu;6 Widgetlar;7 Ayarlar;8 Şarj;9 USB;10 Dock hava simgeleri. Şarj/USB simgeleri built-in imagegen ile üretilmiştir, uygulama bunları tema rengine boyar.

@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "screenshots": {
+    "aos-gaming-center": [
+      "screenshots/aos-gaming-center/1.png"
+    ],
+    "aos-terminal": [
+      "screenshots/aos-terminal/1.png"
+    ],
+    "aos-touch-keyboard": [
+      "screenshots/aos-touch-keyboard/1.png"
+    ],
+    "aos-welcome": [
+      "screenshots/aos-welcome/1.png"
+    ],
+    "aos-windows-app-support": [
+      "screenshots/aos-windows-app-support/1.png"
+    ],
+    "aosver": [
+      "screenshots/aosver/1.png"
+    ],
+    "archive-store": [
+      "screenshots/archive-store/1.png"
+    ],
+    "aos-pomodoro": [
+      "screenshots/aos-pomodoro/1.png"
+    ],
+    "archive-companion": [
+      "screenshots/archive-companion/1.png",
+      "screenshots/archive-companion/2.png",
+      "screenshots/archive-companion/3.png",
+      "screenshots/archive-companion/4.png",
+      "screenshots/archive-companion/5.png",
+      "screenshots/archive-companion/6.png",
+      "screenshots/archive-companion/7.png",
+      "screenshots/archive-companion/8.png",
+      "screenshots/archive-companion/9.png",
+      "screenshots/archive-companion/10.png"
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "release_tag": "catalog-1852ff2b89be2963",
+  "packages": [
+    {
+      "package": "aos-gaming-center",
+      "name": "ArchiveOS Gaming Center",
+      "version": "1.2.7+paths1",
+      "architecture": "all",
+      "summary": {
+        "tr": "Oyun kitaplığı, başlatıcılar ve Windows oyun uyumluluğu.",
+        "en": "Game library, launchers and Windows game compatibility."
+      },
+      "description": "ArchiveOS game library and gaming tools\n Launch Linux, AppImage and Windows games. Import Steam and Heroic libraries.\n Install launchers, UMU and GE-Proton. Optimize games without stopping services.",
+      "category": "Game",
+      "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.5), flatpak, pkexec, systemd, util-linux, libglib2.0-bin",
+      "desktop_id": "aos-gaming-center.desktop",
+      "launch": "/usr/bin/aos-gaming-center",
+      "asset": "aos-gaming-center_1.2.7+paths1_all.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-gaming-center_1.2.7%2Bpaths1_all.deb",
+      "size": 345464,
+      "sha256": "b1f442e03fe09d9f9e43e59150ab3e537effea9caf101a961a28dc9b169abe73",
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi",
+        "en": "Black theme improved."
+      }
+    },
+    {
+      "package": "aos-terminal",
+      "name": "ArchiveOS Terminal",
+      "version": "2.1.9",
+      "architecture": "amd64",
+      "summary": {
+        "tr": "Sekmeli KDE terminali ve klasör entegrasyonu.",
+        "en": "Tabbed KDE terminal with folder integration."
+      },
+      "description": "ArchiveOS Qt terminal\n Independent light-blue Qt interface with embedded KDE terminal sessions,\n tabs, search, clipboard shortcuts and Turkish/English localization.",
+      "category": "Utility",
+      "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.5), konsole-kpart, libkf6parts6, libkf6coreaddons6, libkf6i18n6, libstdc++6, libc6 (>= 2.34), systemd",
+      "desktop_id": "aos-terminal.desktop",
+      "launch": "aos-terminal",
+      "asset": "aos-terminal_2.1.9_amd64.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-terminal_2.1.9_amd64.deb",
+      "size": 162042,
+      "sha256": "2673eae1b7a52c16472e82811f44e90668a6bfd7f688c7cdea82f2942f2e2e15",
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi",
+        "en": "Black theme improved."
+      }
+    },
+    {
+      "package": "aos-touch-keyboard",
+      "name": "ArchiveOS Touch Keyboard",
+      "version": "1.1.3+blue1+paths1",
+      "architecture": "all",
+      "summary": {
+        "tr": "Gerektiğinde elle açılan ekran klavyesi.",
+        "en": "Manually activated on-screen keyboard."
+      },
+      "description": "ArchiveOS touchscreen keyboard for Plasma X11 and Wayland\n English and Turkish Q layouts selected from the system language.\n Onboard handles accessible X11 text fields and bottom docking.\n KWin and Maliit handle native Wayland text input and keyboard geometry.",
+      "category": "Accessibility",
+      "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.5), python3-gi, gir1.2-glib-2.0, onboard, onboard-data, maliit-keyboard, at-spi2-core, libglib2.0-bin, libkf6config-bin, plasma-workspace, xkb-data, libxkbcommon0, qml6-module-qtquick-virtualkeyboard, libqt6virtualkeyboard6, qt6-virtualkeyboard-plugin, systemd",
+      "desktop_id": "aos-touch-keyboard.desktop",
+      "launch": "/usr/bin/aos-touch-keyboard",
+      "asset": "aos-touch-keyboard_1.1.3+blue1+paths1_all.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-touch-keyboard_1.1.3%2Bblue1%2Bpaths1_all.deb",
+      "size": 202916,
+      "sha256": "652ee3a22d89d3e9519e036ae01e94870a63dc3830ec62fa3335b424999cd7e3",
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi",
+        "en": "Black theme improved."
+      }
+    },
+    {
+      "package": "aos-welcome",
+      "name": "Welcome to ArchiveOS",
+      "version": "1.1.6+paths1",
+      "architecture": "all",
+      "summary": {
+        "tr": "ArchiveOS karşılama, sistem ayarları ve uygulama kısayolları.",
+        "en": "ArchiveOS welcome, system settings and application shortcuts."
+      },
+      "description": "ArchiveOS welcome and system tools\n ArchiveOS welcome application with appearance, maintenance and package tools.\n Starts on installed desktop sessions by default; live sessions are excluded.\n Each user can disable automatic startup in the application.",
+      "category": "System",
+      "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.5), systemd",
+      "desktop_id": "aos-welcome.desktop",
+      "launch": "/usr/bin/aos-welcome",
+      "asset": "aos-welcome_1.1.6+paths1_all.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-welcome_1.1.6%2Bpaths1_all.deb",
+      "size": 533450,
+      "sha256": "ff58b3742ac94a3fce2f3ba0f5fe157d7177ebeef6aaaf8fa721976149f13932",
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi",
+        "en": "Black theme improved."
+      }
+    },
+    {
+      "package": "aos-windows-app-support",
+      "name": "ArchiveOS Windows App Support",
+      "version": "2.2.0+blue1+paths1",
+      "architecture": "all",
+      "summary": {
+        "tr": "Wine ve Proton ile Windows uygulama desteği.",
+        "en": "Windows application support with Wine and Proton."
+      },
+      "description": "ArchiveOS Windows App Support\n ArchiveOS desktop utility with system-aware light and dark appearance.\n Turkish system locales use Turkish; other locales use English.",
+      "category": "Utility",
+      "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.5), pkexec, apt, dpkg, flatpak, systemd",
+      "desktop_id": "ArchiveOS-Windows-App-Support.desktop",
+      "launch": "/usr/bin/aos-wine.py",
+      "asset": "aos-windows-app-support_2.2.0+blue1+paths1_all.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-windows-app-support_2.2.0%2Bblue1%2Bpaths1_all.deb",
+      "size": 414028,
+      "sha256": "96c567e903bec225517307a59db75e4e731ceeaa5583028dd4b30363adf4ab0d",
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi",
+        "en": "Black theme improved."
+      }
+    },
+    {
+      "package": "aosver",
+      "name": "About ArchiveOS",
+      "version": "2.2.2+paths1",
+      "architecture": "all",
+      "summary": {
+        "tr": "ArchiveOS sürüm ve sistem bilgileri.",
+        "en": "ArchiveOS version and system information."
+      },
+      "description": "About ArchiveOS\n ArchiveOS desktop utility with system-aware light and dark appearance.\n Turkish system locales use Turkish; other locales use English.",
+      "category": "System",
+      "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.5), systemd",
+      "desktop_id": "aosver.desktop",
+      "launch": "/usr/bin/aosver",
+      "asset": "aosver_2.2.2+paths1_all.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aosver_2.2.2%2Bpaths1_all.deb",
+      "size": 221598,
+      "sha256": "d9cc73cce64b2450180660e5f2f8be582be54faa813fce5fc817855f879b4b4a",
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi",
+        "en": "Black theme improved."
+      }
+    },
+    {
+      "package": "archive-store",
+      "name": "ArchiveStore",
+      "version": "1.2.7",
+      "architecture": "all",
+      "summary": {
+        "tr": "ArchiveOS uygulama mağazası; paketler, kaynaklar ve güncellemeler.",
+        "en": "ArchiveOS application store, software sources and updates."
+      },
+      "description": "ArchiveOS application store and integrated DEB installer\n Search apps from enabled APT repositories, browse categories and favorites,\n manage installed applications and updates, inspect and install local DEBs,\n manage Flatpak repositories and keep local operation history.\n ArchiveOS GitHub package source will be connected separately.",
+      "category": "System",
+      "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.5), python3-pyqt6.qtsvg, python3-apt, python3-yaml, apt, dpkg, pkexec, systemd, libglib2.0-bin, libnotify-bin",
+      "desktop_id": "archive-store.desktop",
+      "launch": "/usr/bin/archive-store %f",
+      "asset": "archive-store_1.2.7_all.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/archive-store_1.2.7_all.deb",
+      "size": 551336,
+      "sha256": "d0396f1680b28065c8282e8b23b19764863e3b619a56781374f64754022a824c",
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi",
+        "en": "Black theme improved."
+      }
+    },
+    {
+      "package": "aos-pomodoro",
+      "name": "ArchiveOS Pomodoro",
+      "version": "1.0.2",
+      "architecture": "all",
+      "summary": {
+        "tr": "Odaklanma ve mola sayacı, günlük hedef ve geçmiş.",
+        "en": "Focus and break timer, daily goal and history."
+      },
+      "description": "ArchiveOS focus timer and break companion\n Native Qt focus timer with short and long breaks, configurable sessions,\n daily goals, weekly insights, local history and paused session recovery.\n Follows the system light/dark appearance and Turkish/English locale.",
+      "category": "Office",
+      "depends": "python3 (>= 3.10), python3-pyqt6 (>= 6.4), python3-pyqt6.qtsvg, pulseaudio-utils, ffmpeg",
+      "desktop_id": "aos-pomodoro.desktop",
+      "launch": "aos-pomodoro",
+      "asset": "aos-pomodoro_1.0.2_all.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/aos-pomodoro_1.0.2_all.deb",
+      "size": 1148286,
+      "sha256": "67681aaea41be79199452899b822c8553914937ea874a050731ae8195e87897d",
+      "optional": true,
+      "removable": true,
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi",
+        "en": "Black theme improved."
+      }
+    },
+    {
+      "package": "archive-companion",
+      "name": "Archive",
+      "version": "2:1.0.1",
+      "architecture": "all",
+      "summary": {
+        "tr": "Dinamik ada, hareketli gözler, müzik ve bildirimler.",
+        "en": "Dynamic island, animated eyes, music and notifications."
+      },
+      "description": "ArchiveOS animated desktop companion\n Animated eyes, expanding notifications, media playback controls,\n theme and language preferences for X11 and XWayland sessions.",
+      "category": "Utility",
+      "depends": "libglib2.0-bin, python3, python3-pyqt6, python3-pyqt6.qtsvg, python3-dbus, dbus-bin, pipewire-bin, pulseaudio-utils, python3-gi, libxcb-cursor0",
+      "desktop_id": "aos-archive.desktop",
+      "launch": "archive",
+      "asset": "archive-companion_1.0.1_all.deb",
+      "deb_url": "https://raw.githubusercontent.com/archive-os/aos-packages/main/packages/release-assets/archive-companion_1.0.1_all.deb",
+      "size": 1097664,
+      "sha256": "059ec9fc9fc4f4eebeed5e293cd1a1b20b04b9adfd2106cc29709c0b57be650a",
+      "optional": true,
+      "removable": true,
+      "release_notes": {
+        "tr": "siyah tema iyileştirildi\nKüçülmüş çizgi seçilen ekran kenarını ve hizalamayı takip eder.",
+        "en": "Black theme improved.\nThe collapsed handle follows the selected screen edge and alignment."
+      },
+      "display_version": "1.0.1"
+    }
+  ],
+  "distribution": "repository"
+}

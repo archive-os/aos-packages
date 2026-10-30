@@ -1,0 +1,1 @@
+Gaming Center 1.2.7+paths1 paketinin izole boş profil, siyah tema ve güncel logo ile alınmış gerçek Qt offscreen önizlemesi. Kullanıcı oyun kitaplığı ve fiziksel masaüstü kullanılmadı.

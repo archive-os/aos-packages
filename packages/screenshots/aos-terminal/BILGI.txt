@@ -1,0 +1,1 @@
+Güncellenen paketin siyah tema ile açılmış gerçek Qt penceresinin offscreen önizlemesi. İzole boş kullanıcı profili kullanılmıştır; gerçek masaüstü oturumu değildir.
