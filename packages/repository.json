@@ -1,9 +1,0 @@
-{
-  "schema_version": 1,
-  "repository": "archive-os/aos-packages",
-  "branch": "main",
-  "catalog": "packages.json",
-  "logos": "logos.json",
-  "screenshots": "screenshots.json",
-  "path": "packages"
-}
