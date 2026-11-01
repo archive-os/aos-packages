@@ -1,3 +1,0 @@
-Güncellenen paketin siyah tema ile açılmış gerçek Qt penceresinin offscreen önizlemesi. İzole boş kullanıcı profili kullanılmıştır; gerçek masaüstü oturumu değildir.
-Beyaz tema: white.png, gerçek DEB uygulamasından izole kullanıcı profiliyle alınmış Qt offscreen görüntüsüdür. Gerçek masaüstü/kurulum kanıtı değildir; kitaplık ve kullanıcı bilgileri önizleme verisidir.
-Terminal beyaz görseli uygulamanın gerçek Görünüm/Ayarlar penceresidir.

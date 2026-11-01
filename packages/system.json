@@ -1,9 +1,0 @@
-{
-  "schema_version": 1,
-  "version": "2.0.4",
-  "packages": [
-    "archiveos-desktop"
-  ],
-  "changelog_tr": "ArchiveOS Desktop sistem bileşenleri DEB paketiyle güncellenir. Branding, temalar/Plymouth ve masaüstü varsayılanları; Recovery dahil değildir.",
-  "changelog_en": "ArchiveOS Desktop system components are delivered as a DEB: branding, themes/Plymouth and desktop defaults. Recovery is not included."
-}
