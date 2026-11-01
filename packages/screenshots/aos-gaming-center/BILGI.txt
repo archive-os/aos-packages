@@ -1,0 +1,2 @@
+Gaming Center 1.2.7+paths1 paketinin izole boş profil, siyah tema ve güncel logo ile alınmış gerçek Qt offscreen önizlemesi. Kullanıcı oyun kitaplığı ve fiziksel masaüstü kullanılmadı.
+Beyaz tema: white.png, gerçek DEB uygulamasından izole kullanıcı profiliyle alınmış Qt offscreen görüntüsüdür. Gerçek masaüstü/kurulum kanıtı değildir; kitaplık ve kullanıcı bilgileri önizleme verisidir.
