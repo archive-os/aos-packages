@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "repository": "archive-os/aos-packages",
+  "branch": "main",
+  "catalog": "packages-v2.json",
+  "logos": "logos.json",
+  "screenshots": "screenshots.json",
+  "path": "packages",
+  "distribution": "repository",
+  "system_manifest": "system.json",
+  "legacy_catalog": "packages.json"
+}

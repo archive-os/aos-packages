@@ -1,0 +1,5 @@
+GitHub archive-os/aos-packages deposunun köküne bu packages klasörünün TAMAMINI yükleyin.
+release-assets klasöründeki 10 DEB dahil olmalı. Ayrıca GitHub Release oluşturmanız gerekmiyor.
+Önceki Release bağlantıları 404 veriyordu; yeni katalog paketleri doğrudan bu klasörden indirir.
+Mağazanın yeni indirme ön denetimi için Desktop/ArchiveStore-1.2.8 içindeki DEB güncellendi.
+GitHub erişimi bu ortamda doğrulanamadı; yerel dosya/SHA256 ve katalog kontrolleri yapıldı.
